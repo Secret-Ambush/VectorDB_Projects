@@ -1,0 +1,1 @@
+Couple of projects using Vector Embeddings in MongoDB + Cassandra
